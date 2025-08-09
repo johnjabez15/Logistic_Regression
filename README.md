@@ -6,7 +6,7 @@ It uses scikit-learn for model training and a simple Flask web application to al
 ___
 
 ### 📂 Project Structure
-
+```
 DataScience/
 │
 ├── Logistic Regression/
@@ -21,7 +21,7 @@ DataScience/
 │   ├── app.py
 │   ├── requirements.txt
 │   └── README.md
-
+```
 ___
 
 ## ⚙️ Installation & Setup
